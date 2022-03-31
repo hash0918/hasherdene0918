@@ -1,5 +1,12 @@
-this code is
-empty6666
-66 66 test 1 1
-test
-test 1 1 
+
+
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}// asdf 
+
+// hashtseren oorchlolt oruulav
+//hash oorchlow
+//ahin oorchl0ow
