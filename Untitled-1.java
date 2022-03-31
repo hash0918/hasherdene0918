@@ -1,10 +1,5 @@
-// Your First Program
-
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}// asdf 
-
-// hashkaaaa oorchlov
-//hash oorchlow
+this code is
+empty6666
+66 66 test 1 1
+test
+test 1 1 
