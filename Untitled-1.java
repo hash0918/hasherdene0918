@@ -6,5 +6,5 @@ class HelloWorld {
     }
 }// asdf 
 
-// hashtseren oorchlolt oruulav
+// hashkaaaa oorchlov
 //hash oorchlow
